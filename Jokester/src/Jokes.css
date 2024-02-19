@@ -1,0 +1,14 @@
+.div1 {border-style: solid;
+    border-radius: 25px;
+    border: 4px solid #73AD21;
+    padding: 20px;
+  }
+
+h1{
+    color: red;
+}
+h3{
+    color:darkred
+}
+.btn{background-color: green;
+color: white;}
